@@ -1,3 +1,3 @@
-- Hi, you can call me Reco.
-- I'm super passionate about Machine Learning, Bioinformatics, Stats, and all thing Biology.
+- Hi
+- I'm super passionate about Machine Learning, Bioinformatics, Stats, and all things Biology.
 - I'm also very passionate about Jelly Donuts.
